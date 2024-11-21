@@ -1,0 +1,6 @@
+Dear {0},
+
+	The payment for the present month is on it's way. The  net-payment for this month is {1} after the deducted price-{2} (includes all taxes, pension and LOP). You will recieve your payslip in {3}. Thanks for your work in the past month despite various problems and hardships. Keep up the hardwork and recognised by the company.
+
+BEST Regards,
+The Payroll Management Team.
